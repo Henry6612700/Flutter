@@ -1,2 +1,1 @@
-# Flutter
- the usefulness of this repositroy is to learn Flutter
+This repository is to learn how to make layout in flutter
